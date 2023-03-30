@@ -1,0 +1,386 @@
+h1{
+    font-size: 22px;
+    border: 10px;
+    border-left: 100%;
+    background-color:lightgrey;
+    padding: 10px 0px 10px 0px;
+}
+
+.TPM{
+    font: 15px bold;
+    color: blue;
+
+}
+
+.ST{
+    font-size: smaller;
+    background-color: blue;
+    border: 2mm;
+    border-radius: 25%;
+    color: white;
+    padding: 2px;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    top: 10px;
+    right: 0;
+    cursor: pointer;
+
+}
+
+.intro{
+    background-color: lightgrey;
+    margin-left: 50px;
+    padding: 2px;
+}
+
+.b1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    min-width: 720px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 31.5cm;
+}
+
+.b11{
+    text-align: center;
+    background-color: white;
+    color: black;
+    min-width: 720px;
+    margin-top: 0%;
+    border-right: 1px solid lightgrey;
+    border-left: 1px solid lightgrey;
+    margin-left: 80px;
+    margin-right: 31.4cm;
+}
+
+.block1{
+    margin-left: 80px;
+    padding: 0%;
+    margin-top: 0%;
+
+}
+
+
+.b2{
+    text-align: center;
+    background-color: black;
+    color: white;
+    min-width: 720px;
+    border-right: 1px solid lightgrey;
+    border-left: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-left: 80px;
+    margin-right: 31.6cm;
+    margin-top: 50px;
+}
+
+.b21{
+    text-align: center;
+    background-color: white;
+    color: black;
+    min-width: 720px;
+    border-right: 1px solid lightgrey;
+    border-left: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+    margin-left: 80px;
+    margin-right: 31.4cm;
+    margin-top: 30px;
+}
+
+.title{
+    text-align: left;
+    background-color: white;
+    color: black;
+    min-width: 720px;
+    border-right: 1px solid lightgrey;
+    border-left: 1px solid lightgrey;
+    margin-left: 80px;
+    margin-right: 31.4cm;
+    margin-top: 30px;
+    margin-bottom: none;
+}
+.titleArea{
+    text-align: center;
+    background-color: white;
+    color: black;
+    min-width: 720px;
+    border-right: 1px solid lightgrey;
+    border-left: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+    margin-left: 80px;
+    margin-right: 31.4cm;
+}
+
+.Content{
+    text-align: left;
+    background-color: white;
+    color: black;
+    min-width: 720px;
+    border-top: none;
+    border-right: 1px solid lightgrey;
+    border-left: 1px solid lightgrey;
+    margin-left: 80px;
+    margin-right: 31.4cm;
+    margin-top: 0px;
+}
+
+.freeform{
+    text-align: center;
+    background-color: white;
+    color: black;
+    min-width: 720px;
+    border-right: 1px solid lightgrey;
+    border-left: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+    margin-left: 80px;
+    margin-right: 31.4cm;
+}
+
+.threadBuild{
+    text-align: center;
+    background-color: black;
+    color: white;
+    min-width: 720px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 10px;
+    margin-left: 780px;
+    margin-right: 1cm;
+    position: absolute;
+    top: 220px;
+    right: 0;
+}
+
+.sub_thread1{
+    border: 1px solid lightgrey;
+    background-color: lightgrey;
+    padding: 1px 5px 1px 5px;
+    position: absolute;
+    top: 400px;
+    right: 15cm;
+}
+
+
+
+
+.dropdown {
+  display: inline-block;
+  position: relative;
+  text-align: left;
+  border: 1px solid lightgrey;
+  min-width: 719px;
+  margin-left: 922px;
+  margin-right: 3cm;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  position: absolute;
+  top: 292px;
+   
+}
+
+button{
+  border:none;
+  border-radius:5px;
+  padding:15px 30px;
+  font-size:18px;
+  cursor:pointer;
+}
+
+button:hover{
+  background-color:#ddd;
+}
+
+.dropdown-options {
+  display: none;
+  position: absolute;
+  overflow: auto;
+  background-color:#fff;
+  border-radius:5px;
+  box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
+}
+
+.dropdown:hover .dropdown-options {
+  display: block;
+}
+
+.dropdown-options a {
+  display: block;
+  color: #000000;
+  padding: 5px;
+  text-decoration: none;
+  padding:20px 40px;
+}
+
+.dropdown-options a:hover {
+  color: #0a0a23;
+  background-color: #ddd;
+  border-radius:5px;
+}
+
+.Empty_box{
+    position: absolute;
+    top: 365px;
+    right: 0;
+    margin-right: 37px;
+}
+
+
+.Sub_thread_area{
+    position: absolute;
+    min-width: 10px;
+    top: 423px;
+    left: 26cm;
+    right: 14cm;
+    bottom: 6cm;
+}
+
+.sub_thread2{
+    border: 1px solid lightgrey;
+    background-color: lightgrey;
+    padding: 1px 5px 1px 5px;
+    position: absolute;
+    top: 400px;
+    right: 5cm;
+}
+
+.Sub_thread_area2{
+    position: absolute;
+    min-width: 10px;
+    top: 423px;
+    left: 35cm;
+    right: 4cm;
+    bottom: 6cm;
+}
+
+.subthread_btn{
+    text-align: center;
+    font-size: 12px;
+    color: white;
+    border: 1px solid blue;
+    border-radius: 10px;
+    background-color: blue;
+    position: absolute;
+    top: 590px;
+    left: 26cm;
+    right: 17cm;
+    padding: 1px;
+}
+
+.bulb{
+    position: absolute;
+    top: 560px;
+    right: 14cm;
+
+}
+
+.SA_method{
+    text-align: center;
+    background-color: black;
+    color: white;
+    min-width: 720px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 10px;
+    margin-left: 780px;
+    margin-right: 1cm;
+    position: absolute;
+    top: 19cm;
+    right: 0;
+}
+
+.description{
+    font-size: 15px;
+    background-color: white;
+    border: 1px solid lightgrey;
+    min-width: 720px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 780px;
+    margin-right: 1cm;
+    position: absolute;
+    top: 20cm;
+    right: 0;
+}
+
+.introduction4{
+    text-align: left;
+    border: 1px solid lightgrey;
+    background-color: lightgrey;
+    min-width: 680px;
+    margin-left: 932px;
+    margin-right: 3cm;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    position: absolute;
+    top: 810px;
+}
+
+.The_4SA{
+    text-align: left;
+    background-color: white;
+    min-width: 140px;
+    position: absolute;
+    top: 860px;
+    left: 27cm;
+}
+
+.Empty_box2{
+    position: absolute;
+    top: 810px;
+    right: 0;
+    margin-right: 37px;
+}
+
+.introduction5{
+    text-align: left;
+    border: 1px solid lightgrey;
+    background-color: lightgrey;
+    min-width: 680px;
+    margin-left: 932px;
+    margin-right: 3cm;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    position: absolute;
+    top: 26cm;
+}
+
+.elem{
+    text-align: left;
+    border: 1px solid white;
+    background-color: white;
+    min-width: 140px;
+    position: absolute;
+    top: 27cm;
+    left: 27cm; 
+}
+
+.ex1{
+    text-align: left;
+    border: 1px solid lightgrey;
+    background-color: lightgrey;
+    min-width: 630px;
+    margin-left: 960px;
+    margin-right: 1cm;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    position: absolute;
+    top: 31cm;
+}
+
+.elem2{
+    text-align: left;
+    min-width: 140px;
+    position: absolute;
+    top: 33cm;
+    left: 960px; 
+}
+
+
+
