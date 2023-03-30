@@ -1,2 +1,3 @@
-# DeepThought
-This project is done under the impression of submission to the DeepThought internship process.
+#DeepThought
+This project is done using Html5, CSS. This is the layout
+of a website and give an idea.
